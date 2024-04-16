@@ -1,2 +1,8 @@
-ME DA PROBLEMAS EL EDITAR EL NOMBRE
-POR LO DEMAS FUNCIONA
+CRUD TEMPORAL
+
+He subido el CRUD a git Hub, he creado un par de ramas temporales y he añadido un txt.
+La base de datos de es php_mysql_crud.
+
+La dirección de correo es inventada. El alta en Git Hub se hizo a nombre de Charles Jourdan.
+
+https://github.com/Charles351Jourdan/CRUDTEMPORAL
